@@ -3,7 +3,7 @@
 import os
 import sys
 
-from core.data_crwal import generate_data
+# from core.data_crwal import generate_data
 
 
 def main():
@@ -21,5 +21,5 @@ def main():
 
 
 if __name__ == '__main__':
-    generate_data()
+    # generate_data()
     main()
